@@ -93,6 +93,7 @@ button:focus {
   margin-top: 20px;
   display:flex;
   justify-content: center;
+  text-align: center;
   color: rgb(150, 149, 97);
 
 }
